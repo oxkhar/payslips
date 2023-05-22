@@ -12,7 +12,7 @@
         "ext-json": "*",
         "php": ">=7.3",
         "php-di/php-di": "^6.0",
-        "slim/psr7": "^0.5",
+        "slim/psr7": "^1.4",
         "slim/slim": "^4.1"
     },
     "require-dev": {
